@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Hi everyone!
 
-I'm glad you are here. I plan to talk about how I have literally no idea what I am doing.
+If anyone somehow ended up here, I am just a guy trying to get into Git, GitHub and that kind of stuff. As you can see, nothing special. Have a nice day.
